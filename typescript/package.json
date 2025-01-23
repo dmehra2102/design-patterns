@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "npm run build && node dist/factory-pattern/abstract-factory-example.js"
+    "dev": "npm run build && node dist/factory-pattern/factory-method-example.js"
   },
   "keywords": [],
   "author": "",
